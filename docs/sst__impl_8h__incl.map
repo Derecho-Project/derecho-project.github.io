@@ -1,8 +1,0 @@
-<map id="sst/sst_impl.h" name="sst/sst_impl.h">
-<area shape="rect" id="node9" href="$time_8h.html" title="time.h" alt="" coords="501,80,560,107"/>
-<area shape="rect" id="node13" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="230,155,314,181"/>
-<area shape="rect" id="node17" href="$predicates_8h.html" title="predicates.h" alt="" coords="849,80,943,107"/>
-<area shape="rect" id="node21" href="$sst_8h.html" title="sst.h" alt="" coords="1037,155,1088,181"/>
-<area shape="rect" id="node31" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1168,229,1208,256"/>
-<area shape="rect" id="node33" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1187,304,1338,345"/>
-</map>

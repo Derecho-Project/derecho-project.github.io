@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['functions',['Functions',['../classHashTable.html#ac6a147ceafe05d4904cc7b3cf0fff85f',1,'HashTable::Functions()'],['../classObjStore.html#a84006d4bb65f98762d8f1d75fa0b565c',1,'ObjStore::Functions()'],['../classByteArrayObject.html#a3a3f45123b6785f3d55a22ce451a5a1a',1,'ByteArrayObject::Functions()'],['../classByteArrayObject.html#a3a3f45123b6785f3d55a22ce451a5a1a',1,'ByteArrayObject::Functions()'],['../classByteArrayObject.html#a3a3f45123b6785f3d55a22ce451a5a1a',1,'ByteArrayObject::Functions()'],['../classByteArrayObject.html#a3a3f45123b6785f3d55a22ce451a5a1a',1,'ByteArrayObject::Functions()'],['../classPFoo.html#af6107edbb489d8cf60681454fc1dcc4c',1,'PFoo::Functions()'],['../classPFoo.html#af6107edbb489d8cf60681454fc1dcc4c',1,'PFoo::Functions()'],['../classFoo.html#a88218e3d10e2041d8700af57ce96e91c',1,'Foo::Functions()']]]
+  ['nextonfailure',['NextOnFailure',['../namespacerdma.html#ae9423a5e39b6b0231c11f70069ac061a',1,'rdma::NextOnFailure()'],['../namespacesst.html#ac17789df5f4856ad892a27494de8a435',1,'sst::NextOnFailure()']]]
 ];

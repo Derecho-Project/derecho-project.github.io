@@ -1,22 +1,13 @@
-<map id="applications/tests/unit_tests/delivery_order_test.cpp" name="applications/tests/unit_tests/delivery_order_test.cpp">
-<area shape="rect" id="node2" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="2859,109,2989,136"/>
-<area shape="rect" id="node34" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="1273,557,1333,584"/>
-<area shape="rect" id="node3" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="4375,796,4518,823"/>
-<area shape="rect" id="node6" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="3732,796,3860,823"/>
-<area shape="rect" id="node14" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="4111,871,4262,912"/>
-<area shape="rect" id="node17" href="$group_8h.html" title="group.h" alt="" coords="2891,184,2957,211"/>
-<area shape="rect" id="node42" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1837,714,1952,741"/>
-<area shape="rect" id="node47" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="4022,483,4183,509"/>
-<area shape="rect" id="node48" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="1043,632,1189,659"/>
-<area shape="rect" id="node27" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="3279,796,3353,823"/>
-<area shape="rect" id="node28" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="2415,259,2572,285"/>
-<area shape="rect" id="node30" href="$replicated_8h.html" title="replicated.h" alt="" coords="3171,333,3261,360"/>
-<area shape="rect" id="node31" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="3187,408,3295,435"/>
-<area shape="rect" id="node43" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1903,483,2020,509"/>
-<area shape="rect" id="node46" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="3920,408,4016,435"/>
-<area shape="rect" id="node33" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="3617,632,3700,659"/>
-<area shape="rect" id="node35" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="1093,714,1219,741"/>
-<area shape="rect" id="node36" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2077,714,2181,741"/>
-<area shape="rect" id="node37" href="$sst_8h.html" title="sst/sst.h" alt="" coords="1094,796,1167,823"/>
-<area shape="rect" id="node39" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="1939,632,2064,659"/>
+<map id="src/applications/tests/unit_tests/delivery_order_test.cpp" name="src/applications/tests/unit_tests/delivery_order_test.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="553,5,721,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,109,177,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="201,109,355,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="379,109,454,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="478,109,539,136"/>
+<area shape="rect" id="node6" title=" " alt="" coords="563,109,630,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="655,109,701,136"/>
+<area shape="rect" id="node8" title=" " alt="" coords="726,109,795,136"/>
+<area shape="rect" id="node9" title=" " alt="" coords="820,109,875,136"/>
+<area shape="rect" id="node10" title=" " alt="" coords="899,109,958,136"/>
+<area shape="rect" id="node11" title=" " alt="" coords="982,109,1041,136"/>
 </map>

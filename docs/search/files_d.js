@@ -1,13 +1,11 @@
 var searchData=
 [
   ['p2p_5fconnections_2ecpp',['p2p_connections.cpp',['../p2p__connections_8cpp.html',1,'']]],
-  ['p2p_5fconnections_2eh',['p2p_connections.h',['../p2p__connections_8h.html',1,'']]],
   ['p2p_5flatency_5ftest_2ecpp',['p2p_latency_test.cpp',['../p2p__latency__test_8cpp.html',1,'']]],
   ['p2p_5fsend_5ftest_2ecpp',['p2p_send_test.cpp',['../p2p__send__test_8cpp.html',1,'']]],
   ['parallel_5fpost_5fpoll_2ecpp',['parallel_post_poll.cpp',['../parallel__post__poll_8cpp.html',1,'']]],
   ['performance_2ecpp',['performance.cpp',['../performance_8cpp.html',1,'']]],
   ['persistence_5fmanager_2ecpp',['persistence_manager.cpp',['../persistence__manager_8cpp.html',1,'']]],
-  ['persistence_5fmanager_2eh',['persistence_manager.h',['../persistence__manager_8h.html',1,'']]],
   ['persistent_2ecpp',['Persistent.cpp',['../Persistent_8cpp.html',1,'']]],
   ['persistent_5flatency_5ftest_2ecpp',['persistent_latency_test.cpp',['../persistent__latency__test_8cpp.html',1,'']]],
   ['persistent_5frejoin_5ftest_2ecpp',['persistent_rejoin_test.cpp',['../persistent__rejoin__test_8cpp.html',1,'']]],
@@ -18,9 +16,7 @@ var searchData=
   ['persistent_5fvector_2ecpp',['persistent_vector.cpp',['../persistent__vector_8cpp.html',1,'']]],
   ['persistlog_2ecpp',['PersistLog.cpp',['../PersistLog_8cpp.html',1,'']]],
   ['poll_5futils_2ecpp',['poll_utils.cpp',['../poll__utils_8cpp.html',1,'']]],
-  ['poll_5futils_2eh',['poll_utils.h',['../poll__utils_8h.html',1,'']]],
   ['predicate_5frow_5fscaling_5fread_2ecpp',['predicate_row_scaling_read.cpp',['../predicate__row__scaling__read_8cpp.html',1,'']]],
   ['predicate_5frow_5fscaling_5fwrite_2ecpp',['predicate_row_scaling_write.cpp',['../predicate__row__scaling__write_8cpp.html',1,'']]],
-  ['predicates_2eh',['predicates.h',['../predicates_8h.html',1,'']]],
   ['predicates_5fper_5fsecond_2ecpp',['predicates_per_second.cpp',['../predicates__per__second_8cpp.html',1,'']]]
 ];

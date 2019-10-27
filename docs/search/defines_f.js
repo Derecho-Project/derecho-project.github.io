@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['trace',['TRACE',['../rdmc_2util_8h.html#a494d31903e7b0333dfa03b0778679113',1,'util.h']]]
+  ['quote',['QUOTE',['../build_2src_2core_2git__version_8cpp.html#a2117b58e19182dff91ad3558e650541d',1,'QUOTE():&#160;git_version.cpp'],['../RelDEb_2src_2core_2git__version_8cpp.html#a2117b58e19182dff91ad3558e650541d',1,'QUOTE():&#160;git_version.cpp']]]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['ok',['OK',['../namespacederecho.html#a950a5aae55e86f79d1478dd9b142eeb4ae0aa021e21dddbd6d8cecec71e9cf564',1,'derecho']]],
-  ['one_5ftime',['ONE_TIME',['../namespacesst.html#abaf45d665334a2ff0cf9cf94dba231a6aa85711ee66c0eba41a1faf855f388c48',1,'sst']]],
-  ['ordered',['ORDERED',['../namespacederecho.html#a1fb14b9518cde9d5f222d1d6039b8bdcaabc458a817b34b4750413b587f536ac0',1,'derecho']]]
+  ['volatile_5flogged',['VOLATILE_LOGGED',['../classobjectstore_1_1ObjectStoreService.html#a5671f6897cf46e669e5f1a2d68be2e88afc5306fec39d95506f621897e3291398',1,'objectstore::ObjectStoreService']]],
+  ['volatile_5funlogged',['VOLATILE_UNLOGGED',['../classobjectstore_1_1ObjectStoreService.html#a5671f6897cf46e669e5f1a2d68be2e88a225ac9ed336b47378d940d9c2f9e9800',1,'objectstore::ObjectStoreService']]]
 ];

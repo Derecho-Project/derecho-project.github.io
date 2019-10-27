@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mode',['Mode',['../namespacederecho.html#a1fb14b9518cde9d5f222d1d6039b8bdc',1,'derecho']]]
+  ['rdmaops',['RDMAOps',['../namespacerdma.html#afdd5c35adaf826c3a63cc14bd028befc',1,'rdma']]]
 ];

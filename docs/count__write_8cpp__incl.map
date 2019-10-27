@@ -1,9 +1,11 @@
-<map id="applications/archive/count_write.cpp" name="applications/archive/count_write.cpp">
-<area shape="rect" id="node8" href="$poll__utils_8h.html" title="sst/poll_utils.h" alt="" coords="583,244,690,271"/>
-<area shape="rect" id="node15" href="$sst_8h.html" title="sst/sst.h" alt="" coords="895,95,968,121"/>
-<area shape="rect" id="node26" href="$predicates_8h.html" title="predicates.h" alt="" coords="815,244,909,271"/>
-<area shape="rect" id="node29" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="255,244,295,271"/>
-<area shape="rect" id="node32" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="890,169,973,196"/>
-<area shape="rect" id="node31" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="200,319,351,360"/>
-<area shape="rect" id="node35" href="$time_8h.html" title="time.h" alt="" coords="1343,244,1402,271"/>
+<map id="src/applications/archive/count_write.cpp" name="src/applications/archive/count_write.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="255,5,414,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,67,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="91,102,151,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="175,102,230,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="255,102,321,129"/>
+<area shape="rect" id="node6" title=" " alt="" coords="345,102,417,129"/>
+<area shape="rect" id="node7" title=" " alt="" coords="442,102,489,129"/>
+<area shape="rect" id="node8" title=" " alt="" coords="513,95,639,136"/>
+<area shape="rect" id="node9" title=" " alt="" coords="663,102,801,129"/>
 </map>

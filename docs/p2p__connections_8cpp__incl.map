@@ -1,6 +1,11 @@
-<map id="derecho/p2p_connections.cpp" name="derecho/p2p_connections.cpp">
-<area shape="rect" id="node6" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="412,80,543,107"/>
-<area shape="rect" id="node16" href="$poll__utils_8h.html" title="sst/poll_utils.h" alt="" coords="849,80,956,107"/>
-<area shape="rect" id="node13" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="159,155,222,181"/>
-<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="129,229,279,271"/>
+<map id="src/core/p2p_connections.cpp" name="src/core/p2p_connections.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="237,5,433,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,87,52,114"/>
+<area shape="rect" id="node3" title=" " alt="" coords="76,87,141,114"/>
+<area shape="rect" id="node4" title=" " alt="" coords="166,87,227,114"/>
+<area shape="rect" id="node5" title=" " alt="" coords="251,87,321,114"/>
+<area shape="rect" id="node6" title=" " alt="" coords="345,87,427,114"/>
+<area shape="rect" id="node7" title=" " alt="" coords="452,87,603,114"/>
+<area shape="rect" id="node8" title=" " alt="" coords="627,80,777,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="801,80,926,121"/>
 </map>
