@@ -1,7 +1,29 @@
 var searchData=
 [
   ['ibv_5fresources',['ibv_resources',['../namespacerdma.html#structrdma_1_1ibv__resources',1,'rdma']]],
+  ['ideltaobjectfactory',['IDeltaObjectFactory',['../classpersistent_1_1IDeltaObjectFactory.html',1,'persistent']]],
+  ['ideltaobjectfactory_3c_20deltaobjectstorecore_20_3e',['IDeltaObjectFactory&lt; DeltaObjectStoreCore &gt;',['../classpersistent_1_1IDeltaObjectFactory.html',1,'persistent']]],
+  ['ideltaobjectfactory_3c_20integerwithdelta_20_3e',['IDeltaObjectFactory&lt; IntegerWithDelta &gt;',['../classpersistent_1_1IDeltaObjectFactory.html',1,'persistent']]],
+  ['ideltaobjectfactory_3c_20objecttype_20_3e',['IDeltaObjectFactory&lt; ObjectType &gt;',['../classpersistent_1_1IDeltaObjectFactory.html',1,'persistent']]],
+  ['ideltasupport',['IDeltaSupport',['../classpersistent_1_1IDeltaSupport.html',1,'persistent']]],
+  ['ideltasupport_3c_20deltaobjectstorecore_20_3e',['IDeltaSupport&lt; DeltaObjectStoreCore &gt;',['../classpersistent_1_1IDeltaSupport.html',1,'persistent']]],
+  ['ideltasupport_3c_20integerwithdelta_20_3e',['IDeltaSupport&lt; IntegerWithDelta &gt;',['../classpersistent_1_1IDeltaSupport.html',1,'persistent']]],
+  ['ideserializationcontext',['IDeserializationContext',['../structderecho_1_1IDeserializationContext.html',1,'derecho']]],
   ['integerwithdelta',['IntegerWithDelta',['../classIntegerWithDelta.html',1,'']]],
+  ['invalid_5fargs',['invalid_args',['../classrdma_1_1invalid__args.html',1,'rdma::invalid_args'],['../classrdmc_1_1invalid__args.html',1,'rdmc::invalid_args']]],
+  ['invalid_5fnode_5fexception',['invalid_node_exception',['../structderecho_1_1invalid__node__exception.html',1,'derecho']]],
+  ['invalid_5fsubgroup_5fexception',['invalid_subgroup_exception',['../structderecho_1_1invalid__subgroup__exception.html',1,'derecho']]],
   ['iobjectstoreapi',['IObjectStoreAPI',['../classobjectstore_1_1IObjectStoreAPI.html',1,'objectstore']]],
-  ['ireplica',['IReplica',['../classobjectstore_1_1IReplica.html',1,'objectstore']]]
+  ['iobjectstoreservice',['IObjectStoreService',['../classobjectstore_1_1IObjectStoreService.html',1,'objectstore']]],
+  ['ireplica',['IReplica',['../classobjectstore_1_1IReplica.html',1,'objectstore']]],
+  ['is_5flist',['is_list',['../structmutils_1_1is__list.html',1,'mutils']]],
+  ['is_5flist_3c_20std_3a_3alist_3c_20t_20_3e_20_3e',['is_list&lt; std::list&lt; T &gt; &gt;',['../structmutils_1_1is__list_3_01std_1_1list_3_01T_01_4_01_4.html',1,'mutils']]],
+  ['is_5fmap',['is_map',['../structmutils_1_1is__map.html',1,'mutils']]],
+  ['is_5fmap_3c_20std_3a_3amap_3c_20k_2c_20v_20_3e_20_3e',['is_map&lt; std::map&lt; K, V &gt; &gt;',['../structmutils_1_1is__map_3_01std_1_1map_3_01K_00_01V_01_4_01_4.html',1,'mutils']]],
+  ['is_5fpair',['is_pair',['../structmutils_1_1is__pair.html',1,'mutils']]],
+  ['is_5fpair_3c_20std_3a_3apair_3c_20t_2c_20u_20_3e_20_3e',['is_pair&lt; std::pair&lt; T, U &gt; &gt;',['../structmutils_1_1is__pair_3_01std_1_1pair_3_01T_00_01U_01_4_01_4.html',1,'mutils']]],
+  ['is_5fstring',['is_string',['../structmutils_1_1is__string.html',1,'mutils']]],
+  ['is_5fstring_3c_20const_20std_3a_3astring_20_3e',['is_string&lt; const std::string &gt;',['../structmutils_1_1is__string_3_01const_01std_1_1string_01_4.html',1,'mutils']]],
+  ['is_5fstring_3c_20std_3a_3astring_20_3e',['is_string&lt; std::string &gt;',['../structmutils_1_1is__string_3_01std_1_1string_01_4.html',1,'mutils']]],
+  ['itemporalqueryfrontierprovider',['ITemporalQueryFrontierProvider',['../classpersistent_1_1ITemporalQueryFrontierProvider.html',1,'persistent']]]
 ];

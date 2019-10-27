@@ -1,0 +1,10 @@
+<map id="include/derecho/persistent/PersistNoLog.hpp" name="include/derecho/persistent/PersistNoLog.hpp">
+<area shape="rect" id="node2" href="$persistent_2detail_2util_8hpp.html" title="detail/util.hpp" alt="" coords="1730,102,1829,129"/>
+<area shape="rect" id="node20" href="$SerializationSupport_8hpp.html" title="derecho/mutils&#45;serialization\l/SerializationSupport.hpp" alt="" coords="709,95,889,136"/>
+<area shape="rect" id="node32" href="$logger_8hpp.html" title="derecho/utils/logger.hpp" alt="" coords="110,102,270,129"/>
+<area shape="rect" id="node35" href="$PersistNoLog__impl_8hpp.html" title="detail/PersistNoLog\l_impl.hpp" alt="" coords="2367,95,2503,136"/>
+<area shape="rect" id="node3" href="$PersistException_8hpp.html" title="../PersistException.hpp" alt="" coords="2103,184,2261,211"/>
+<area shape="rect" id="node5" href="$conf_8hpp.html" title="derecho/conf/conf.hpp" alt="" coords="1488,184,1639,211"/>
+<area shape="rect" id="node21" href="$SerializationMacros_8hpp.html" title="SerializationMacros.hpp" alt="" coords="651,184,812,211"/>
+<area shape="rect" id="node23" href="$context__ptr_8hpp.html" title="context_ptr.hpp" alt="" coords="922,184,1034,211"/>
+</map>

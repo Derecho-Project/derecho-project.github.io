@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['unique_5flock_5ft',['unique_lock_t',['../namespacederecho.html#ae6c56618eccc62191c8504856cfd9d18',1,'derecho']]]
+  ['has_5fpersistent_5ffields',['has_persistent_fields',['../namespacederecho.html#a9ae5633b492f5faf7c9f2bc514ac2d27',1,'derecho']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['tests',['Tests',['../namespacemyTests.html#a17c628f4a3b65a198fa7218c43091277',1,'myTests']]]
+  ['ossmode',['OSSMode',['../classobjectstore_1_1ObjectStoreService.html#a5671f6897cf46e669e5f1a2d68be2e88',1,'objectstore::ObjectStoreService']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['disjoint_5fmem',['DISJOINT_MEM',['../namespacemyTests.html#a17c628f4a3b65a198fa7218c43091277ad10da6d06fbb00e7235d7e50974396b5',1,'myTests']]]
+  ['binomial_5fsend',['BINOMIAL_SEND',['../namespacerdmc.html#a9d1fe0386ac7af59a3ee09836d6e3187a939a9c4d26823c1ddfe9da09e46d953f',1,'rdmc']]]
 ];

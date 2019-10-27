@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['change_5fpers_5fbytes',['CHANGE_PERS_BYTES',['../classByteArrayObject.html#a3a3f45123b6785f3d55a22ce451a5a1aac2f63240df5948e33e8aef2617c205be',1,'ByteArrayObject']]],
-  ['change_5fstate',['CHANGE_STATE',['../classPFoo.html#af6107edbb489d8cf60681454fc1dcc4cac352d68e0033672dfdd79f190244d1d3',1,'PFoo::CHANGE_STATE()'],['../classFoo.html#a88218e3d10e2041d8700af57ce96e91cad3068ecd4f53d0da0a59bec76f96b1d9',1,'Foo::CHANGE_STATE()']]],
-  ['crash_5fon_5ffailure',['CRASH_ON_FAILURE',['../namespacerdma.html#ae9423a5e39b6b0231c11f70069ac061aa3b7885fda3a9ec291c7338bafce3d5e4',1,'rdma::CRASH_ON_FAILURE()'],['../namespacesst.html#ac17789df5f4856ad892a27494de8a435af6d6a7e85f2151a9519b9e63a172907f',1,'sst::CRASH_ON_FAILURE()']]]
+  ['abort',['ABORT',['../namespacederecho.html#a3eda31de4dd1e1caa4329b6e3175f17ea8d12a2ca7e5a64036d7251a3eda51a38',1,'derecho']]],
+  ['ack',['ACK',['../namespacederecho.html#a3eda31de4dd1e1caa4329b6e3175f17ea0fc437bc317835cad5faafc12a83fad5',1,'derecho']]]
 ];

@@ -1,5 +1,5 @@
 <map id="objectstore::DeltaObjectStoreCore" name="objectstore::DeltaObjectStoreCore">
-<area shape="rect" id="node1" title=" " alt="" coords="80,95,243,136"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,13,139,39"/>
-<area shape="rect" id="node3" title=" " alt="" coords="163,5,338,47"/>
+<area shape="rect" id="node2" href="$structmutils_1_1ByteRepresentable.html" title="A non&#45;POD type which wishes to mark itself byte representable should extend this class. " alt="" coords="5,102,181,129"/>
+<area shape="rect" id="node3" href="$classpersistent_1_1IDeltaSupport.html" title="persistent::IDeltaSupport\l\&lt; DeltaObjectStoreCore \&gt;" alt="" coords="206,95,381,136"/>
+<area shape="rect" id="node4" href="$classpersistent_1_1IDeltaObjectFactory.html" title="persistent::IDeltaObject\lFactory\&lt; DeltaObjectStoreCore \&gt;" alt="" coords="184,5,403,47"/>
 </map>

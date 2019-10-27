@@ -1,0 +1,30 @@
+<map id="include/derecho/core/detail/connection_manager.hpp" name="include/derecho/core/detail/connection_manager.hpp">
+<area shape="rect" id="node2" href="$multicast__group_8hpp.html" title="include/derecho/core\l/detail/multicast_group.hpp" alt="" coords="699,95,878,136"/>
+<area shape="rect" id="node27" href="$connection__manager_8cpp.html" title="src/core/connection\l_manager.cpp" alt="" coords="902,95,1038,136"/>
+<area shape="rect" id="node28" href="$lf__helper_8cpp.html" title="src/rdmc/lf_helper.cpp" alt="" coords="1063,102,1213,129"/>
+<area shape="rect" id="node29" href="$lf_8cpp.html" title="Implementation of RDMA interface defined in lf.h. " alt="" coords="1238,102,1337,129"/>
+<area shape="rect" id="node3" href="$view__manager_8hpp.html" title="include/derecho/core\l/detail/view_manager.hpp" alt="" coords="818,363,989,404"/>
+<area shape="rect" id="node22" href="$view_8hpp.html" title="include/derecho/core\l/view.hpp" alt="" coords="717,184,860,225"/>
+<area shape="rect" id="node26" href="$multicast__group_8cpp.html" title="src/core/multicast\l_group.cpp" alt="" coords="884,184,1011,225"/>
+<area shape="rect" id="node4" href="$persistence__manager_8hpp.html" title="include/derecho/core\l/detail/persistence_manager.hpp" alt="" coords="966,631,1177,672"/>
+<area shape="rect" id="node5" href="$group_8hpp.html" title="include/derecho/core\l/group.hpp" alt="" coords="619,720,761,761"/>
+<area shape="rect" id="node16" href="$rpc__manager_8hpp.html" title="include/derecho/core\l/detail/rpc_manager.hpp" alt="" coords="583,452,744,493"/>
+<area shape="rect" id="node19" href="$view__manager_8cpp.html" title="src/core/view_manager.cpp" alt="" coords="708,638,891,665"/>
+<area shape="rect" id="node21" href="$restart__state_8cpp.html" title="src/core/restart_state.cpp" alt="" coords="1095,459,1266,486"/>
+<area shape="rect" id="node15" href="$persistence__manager_8cpp.html" title="src/core/persistence\l_manager.cpp" alt="" coords="1001,720,1141,761"/>
+<area shape="rect" id="node6" href="$derecho_8hpp.html" title="include/derecho/core\l/derecho.hpp" alt="" coords="448,809,591,851"/>
+<area shape="rect" id="node14" href="$group__impl_8hpp.html" title="include/derecho/core\l/detail/group_impl.hpp" alt="" coords="615,809,765,851"/>
+<area shape="rect" id="node7" href="$Object_8hpp.html" title="include/derecho/objectstore\l/Object.hpp" alt="" coords="429,899,610,940"/>
+<area shape="rect" id="node8" href="$ObjectStore_8hpp.html" title="include/derecho/objectstore\l/ObjectStore.hpp" alt="" coords="327,988,509,1029"/>
+<area shape="rect" id="node13" href="$Object_8cpp.html" title="src/objectstore/Object.cpp" alt="" coords="533,995,708,1022"/>
+<area shape="rect" id="node9" href="$ObjectStoreService_8cpp.html" title="src/objectstore/java\l/com/derecho/objectstore\l/ObjectStoreService.cpp" alt="" coords="5,1077,175,1133"/>
+<area shape="rect" id="node10" href="$ObjectStore_8cpp.html" title="src/objectstore/ObjectStore.cpp" alt="" coords="199,1092,405,1119"/>
+<area shape="rect" id="node11" href="$performance_8cpp.html" title="src/objectstore/performance.cpp" alt="" coords="429,1092,639,1119"/>
+<area shape="rect" id="node12" href="$objectstore_2test_8cpp.html" title="src/objectstore/test.cpp" alt="" coords="663,1092,821,1119"/>
+<area shape="rect" id="node17" href="$replicated_8hpp.html" title="include/derecho/core\l/replicated.hpp" alt="" coords="500,541,643,583"/>
+<area shape="rect" id="node20" href="$rpc__manager_8cpp.html" title="src/core/rpc_manager.cpp" alt="" coords="667,549,841,575"/>
+<area shape="rect" id="node18" href="$replicated__impl_8hpp.html" title="include/derecho/core\l/detail/replicated_impl.hpp" alt="" coords="510,631,683,672"/>
+<area shape="rect" id="node23" href="$restart__state_8hpp.html" title="include/derecho/core\l/detail/restart_state.hpp" alt="" coords="1136,273,1295,315"/>
+<area shape="rect" id="node24" href="$subgroup__functions_8cpp.html" title="src/core/subgroup_functions.cpp" alt="" coords="751,281,962,307"/>
+<area shape="rect" id="node25" href="$view_8cpp.html" title="src/core/view.cpp" alt="" coords="986,281,1111,307"/>
+</map>

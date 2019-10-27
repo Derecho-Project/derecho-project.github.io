@@ -1,0 +1,5 @@
+<map id="derecho::IDeserializationContext" name="derecho::IDeserializationContext">
+<area shape="rect" id="node3" href="$classobjectstore_1_1IObjectStoreService.html" title="objectstore::IObjectStore\lService" alt="" coords="21,184,187,225"/>
+<area shape="rect" id="node2" href="$structmutils_1_1RemoteDeserializationContext.html" title="If a class which implements ByteRepresentable requires a context in order to correctly deserialize..." alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node4" href="$classobjectstore_1_1ObjectStoreService.html" title="objectstore::ObjectStore\lService" alt="" coords="23,273,185,315"/>
+</map>

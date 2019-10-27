@@ -1,0 +1,17 @@
+<map id="derecho::ViewManager" name="derecho::ViewManager">
+<area shape="rect" id="node3" href="$classderecho_1_1RestartLeaderState.html" title="derecho::RestartLeaderState" alt="" coords="1932,1276,2121,1303"/>
+<area shape="rect" id="node5" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="1221,1044,1308,1071"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="843,1044,923,1071"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="488,1037,615,1078"/>
+<area shape="rect" id="node9" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="1212,369,1317,396"/>
+<area shape="rect" id="node10" href="$structmutils_1_1ByteRepresentable.html" title="A non&#45;POD type which wishes to mark itself byte representable should extend this class. " alt="" coords="795,217,971,244"/>
+<area shape="rect" id="node20" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="469,545,633,572"/>
+<area shape="rect" id="node26" href="$namespacederecho.html#structderecho_1_1CallbackSet" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="47,923,194,949"/>
+<area shape="rect" id="node30" title="STL class. " alt="" coords="79,973,163,1000"/>
+<area shape="rect" id="node33" href="$structderecho_1_1RestartState.html" title="derecho::RestartState" alt="" coords="1555,1212,1706,1239"/>
+<area shape="rect" id="node34" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="1554,1537,1707,1564"/>
+<area shape="rect" id="node38" title="STL class. " alt="" coords="2368,1377,2491,1404"/>
+<area shape="rect" id="node41" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="2349,1428,2509,1455"/>
+<area shape="rect" id="node50" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="2351,1018,2507,1059"/>
+<area shape="rect" id="node47" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="2344,1701,2515,1742"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="persistent::Volatile&lt; ObjectType &gt;" name="persistent::Volatile&lt; ObjectType &gt;">
+<area shape="rect" id="node2" href="$classpersistent_1_1Persistent.html" title="persistent::Persistent\l\&lt; ObjectType, ST_MEM \&gt;" alt="" coords="1432,189,1608,231"/>
+<area shape="rect" id="node3" href="$structmutils_1_1ByteRepresentable.html" title="A non&#45;POD type which wishes to mark itself byte representable should extend this class. " alt="" coords="1077,127,1253,154"/>
+<area shape="rect" id="node4" href="$classpersistent_1_1PersistentRegistry.html" title="PersistentRegistry is a book for all the Persistent&lt;T&gt; or Volatile&lt;T&gt; variables. " alt="" coords="803,169,997,195"/>
+<area shape="rect" id="node5" href="$structmutils_1_1RemoteDeserializationContext.html" title="If a class which implements ByteRepresentable requires a context in order to correctly deserialize..." alt="" coords="379,100,576,141"/>
+<area shape="rect" id="node6" href="$classpersistent_1_1ITemporalQueryFrontierProvider.html" title="persistent::ITemporalQuery\lFrontierProvider" alt="" coords="387,165,567,207"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="437,237,517,263"/>
+<area shape="rect" id="node11" href="$classpersistent_1_1PersistLog.html" title="persistent::PersistLog" alt="" coords="825,259,975,286"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="132,229,259,271"/>
+<area shape="rect" id="node13" href="$structpersistent_1_1hlc__index__entry.html" title="persistent::hlc_index\l_entry" alt="" coords="124,297,267,339"/>
+<area shape="rect" id="node14" href="$classHLC.html" title="HLC" alt="" coords="5,305,55,331"/>
+</map>

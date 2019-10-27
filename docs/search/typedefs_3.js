@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['shared_5flock_5ft',['shared_lock_t',['../namespacederecho.html#aff2cd00140eaa031b4056c2c51caef18',1,'derecho']]]
+  ['external_5fcaller_5findex_5fmap',['external_caller_index_map',['../classderecho_1_1Group.html#a15339266282686b86de04779a699b0e3',1,'derecho::Group']]]
 ];

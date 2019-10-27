@@ -1,13 +1,25 @@
 <map id="src/core/multicast_group.cpp" name="src/core/multicast_group.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="386,5,513,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,102,80,129"/>
-<area shape="rect" id="node3" title=" " alt="" coords="105,102,170,129"/>
-<area shape="rect" id="node4" title=" " alt="" coords="195,102,256,129"/>
-<area shape="rect" id="node5" title=" " alt="" coords="280,102,333,129"/>
-<area shape="rect" id="node6" title=" " alt="" coords="357,102,416,129"/>
-<area shape="rect" id="node7" title=" " alt="" coords="440,95,587,136"/>
-<area shape="rect" id="node8" title=" " alt="" coords="611,95,754,136"/>
-<area shape="rect" id="node9" title=" " alt="" coords="778,95,907,136"/>
-<area shape="rect" id="node10" title=" " alt="" coords="932,95,1068,136"/>
-<area shape="rect" id="node11" title=" " alt="" coords="1092,102,1252,129"/>
+<area shape="rect" id="node7" href="$derecho__internal_8hpp.html" title="derecho/core/detail\l/derecho_internal.hpp" alt="" coords="2472,259,2619,300"/>
+<area shape="rect" id="node21" href="$multicast__group_8hpp.html" title="derecho/core/detail\l/multicast_group.hpp" alt="" coords="1586,95,1729,136"/>
+<area shape="rect" id="node43" href="$Persistent_8hpp.html" title="derecho/persistent\l/Persistent.hpp" alt="" coords="3333,95,3462,136"/>
+<area shape="rect" id="node47" href="$logger_8hpp.html" title="derecho/utils/logger.hpp" alt="" coords="2896,266,3056,293"/>
+<area shape="rect" id="node50" href="$rdmc_2detail_2util_8hpp.html" title="derecho/rdmc/detail\l/util.hpp" alt="" coords="2312,259,2448,300"/>
+<area shape="rect" id="node16" href="$derecho__type__definitions_8hpp.html" title="../derecho_type_definitions.hpp" alt="" coords="2208,355,2411,382"/>
+<area shape="rect" id="node17" href="$HLC_8hpp.html" title="derecho/persistent\l/HLC.hpp" alt="" coords="4149,348,4278,389"/>
+<area shape="rect" id="node20" href="$PersistentTypenames_8hpp.html" title="This file defines some type aliases used by the Persistence library. " alt="" coords="3444,348,3623,389"/>
+<area shape="rect" id="node31" href="$derecho__modes_8hpp.html" title="../derecho_modes.hpp" alt="" coords="1989,184,2139,211"/>
+<area shape="rect" id="node32" href="$subgroup__info_8hpp.html" title="../subgroup_info.hpp" alt="" coords="1302,266,1442,293"/>
+<area shape="rect" id="node33" href="$connection__manager_8hpp.html" title="connection_manager.hpp" alt="" coords="494,266,661,293"/>
+<area shape="rect" id="node34" href="$derecho__sst_8hpp.html" title="derecho_sst.hpp" alt="" coords="2367,184,2486,211"/>
+<area shape="rect" id="node35" href="$sst_8hpp.html" title="derecho/sst/sst.hpp" alt="" coords="937,266,1074,293"/>
+<area shape="rect" id="node37" href="$conf_8hpp.html" title="derecho/conf/conf.hpp" alt="" coords="730,355,881,382"/>
+<area shape="rect" id="node38" href="$SerializationMacros_8hpp.html" title="derecho/mutils&#45;serialization\l/SerializationMacros.hpp" alt="" coords="2003,348,2183,389"/>
+<area shape="rect" id="node39" href="$SerializationSupport_8hpp.html" title="derecho/mutils&#45;serialization\l/SerializationSupport.hpp" alt="" coords="2006,259,2186,300"/>
+<area shape="rect" id="node40" href="$rdmc_8hpp.html" title="derecho/rdmc/rdmc.hpp" alt="" coords="1670,266,1829,293"/>
+<area shape="rect" id="node41" href="$multicast_8hpp.html" title="derecho/sst/multicast.hpp" alt="" coords="737,184,909,211"/>
+<area shape="rect" id="node44" href="$FilePersistLog_8hpp.html" title="detail/FilePersistLog.hpp" alt="" coords="3485,184,3651,211"/>
+<area shape="rect" id="node45" href="$PersistLog_8hpp.html" title="PersistLog.hpp" alt="" coords="3720,266,3829,293"/>
+<area shape="rect" id="node46" href="$PersistException_8hpp.html" title="../PersistException.hpp" alt="" coords="3863,355,4022,382"/>
+<area shape="rect" id="node48" href="$PersistNoLog_8hpp.html" title="PersistNoLog.hpp" alt="" coords="3030,184,3157,211"/>
+<area shape="rect" id="node49" href="$time_8h.html" title="time.h" alt="" coords="3337,355,3396,382"/>
 </map>

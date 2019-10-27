@@ -1,5 +1,23 @@
 <map id="objectstore::ObjectStoreService" name="objectstore::ObjectStoreService">
-<area shape="rect" id="node1" title=" " alt="" coords="81,95,244,136"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node3" title=" " alt="" coords="169,5,333,32"/>
+<area shape="rect" id="node2" href="$classobjectstore_1_1IObjectStoreService.html" title="objectstore::IObjectStore\lService" alt="" coords="2629,1409,2795,1450"/>
+<area shape="rect" id="node3" href="$structderecho_1_1IDeserializationContext.html" title="The Deserialization Interface to be implemented by user applications. " alt="" coords="2235,1559,2402,1601"/>
+<area shape="rect" id="node6" href="$classderecho_1_1Group.html" title="derecho::Group\&lt; objectstore\l::VolatileUnloggedObjectStore,\l objectstore::PersistentLoggedObject\lStore \&gt;" alt="" coords="2593,1193,2831,1263"/>
+<area shape="rect" id="node4" href="$structmutils_1_1RemoteDeserializationContext.html" title="If a class which implements ByteRepresentable requires a context in order to correctly deserialize..." alt="" coords="1815,1559,2013,1601"/>
+<area shape="rect" id="node19" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="369,704,475,731"/>
+<area shape="rect" id="node7" href="$classderecho_1_1__Group.html" title="derecho::_Group" alt="" coords="1855,1500,1973,1527"/>
+<area shape="rect" id="node8" href="$classderecho_1_1GroupProjection.html" title="derecho::GroupProjection\l\&lt; ReplicatedTypes \&gt;" alt="" coords="2234,1493,2403,1534"/>
+<area shape="rect" id="node9" href="$classderecho_1_1rpc_1_1RPCManager.html" title="derecho::rpc::RPCManager" alt="" coords="2228,1215,2409,1241"/>
+<area shape="rect" id="node11" href="$classsst_1_1P2PConnections.html" title="sst::P2PConnections" alt="" coords="1449,1468,1596,1495"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="1075,1183,1159,1209"/>
+<area shape="rect" id="node15" href="$classderecho_1_1ViewManager.html" title="derecho::ViewManager" alt="" coords="1837,668,1991,695"/>
+<area shape="rect" id="node48" href="$classderecho_1_1PersistenceManager.html" title="PersistenceManager is responsible for persisting all the data in a group. " alt="" coords="2221,864,2416,891"/>
+<area shape="rect" id="node17" href="$classderecho_1_1RestartLeaderState.html" title="derecho::RestartLeaderState" alt="" coords="1022,213,1211,240"/>
+<area shape="rect" id="node22" href="$structderecho_1_1RestartState.html" title="derecho::RestartState" alt="" coords="687,323,837,349"/>
+<area shape="rect" id="node23" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="685,252,839,279"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="1461,377,1584,404"/>
+<area shape="rect" id="node27" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="1443,428,1603,455"/>
+<area shape="rect" id="node38" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="1445,69,1601,110"/>
+<area shape="rect" id="node32" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="719,103,805,129"/>
+<area shape="rect" id="node34" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="1437,543,1608,585"/>
+<area shape="rect" id="node47" href="$structderecho_1_1rpc_1_1RPCManager_1_1fifo__req.html" title="derecho::rpc::RPCManager\l::fifo_req" alt="" coords="1432,1070,1613,1111"/>
 </map>

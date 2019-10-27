@@ -1,8 +1,22 @@
 <map id="objectstore::PersistentLoggedObjectStore" name="objectstore::PersistentLoggedObjectStore">
-<area shape="rect" id="node1" title=" " alt="" coords="243,99,437,141"/>
-<area shape="rect" id="node2" title=" " alt="" coords="33,5,167,32"/>
-<area shape="rect" id="node3" title=" " alt="" coords="47,56,153,83"/>
-<area shape="rect" id="node4" title=" " alt="" coords="15,107,185,133"/>
-<area shape="rect" id="node5" href="$classobjectstore_1_1IObjectStoreAPI.html" title=" " alt="" coords="5,157,195,184"/>
-<area shape="rect" id="node6" href="$classobjectstore_1_1IReplica.html" title=" " alt="" coords="29,208,171,235"/>
+<area shape="rect" id="node2" href="$structmutils_1_1ByteRepresentable.html" title="A non&#45;POD type which wishes to mark itself byte representable should extend this class. " alt="" coords="5,485,181,512"/>
+<area shape="rect" id="node8" href="$classpersistent_1_1Persistent.html" title="persistent::Persistent\l\&lt; objectstore::DeltaObjectStore\lCore \&gt;" alt="" coords="1847,376,2053,432"/>
+<area shape="rect" id="node21" href="$classobjectstore_1_1DeltaObjectStoreCore.html" title="objectstore::DeltaObject\lStoreCore" alt="" coords="1223,451,1385,493"/>
+<area shape="rect" id="node25" href="$classobjectstore_1_1Object.html" title="objectstore::Object" alt="" coords="471,536,603,563"/>
+<area shape="rect" id="node26" href="$classobjectstore_1_1Blob.html" title="objectstore::Blob" alt="" coords="231,536,351,563"/>
+<area shape="rect" id="node3" href="$classderecho_1_1PersistsFields.html" title="This is a marker interface for user&#45;defined Replicated Objects (i.e. " alt="" coords="1871,173,2029,200"/>
+<area shape="rect" id="node4" href="$classderecho_1_1GroupReference.html" title="derecho::GroupReference" alt="" coords="1865,224,2035,251"/>
+<area shape="rect" id="node5" href="$classderecho_1_1__Group.html" title="derecho::_Group" alt="" coords="1527,224,1646,251"/>
+<area shape="rect" id="node6" href="$classobjectstore_1_1IObjectStoreAPI.html" title="objectstore::IObjectStoreAPI" alt="" coords="1855,275,2045,301"/>
+<area shape="rect" id="node7" href="$classobjectstore_1_1IReplica.html" title="objectstore::IReplica" alt="" coords="1879,325,2021,352"/>
+<area shape="rect" id="node9" href="$classpersistent_1_1PersistentRegistry.html" title="PersistentRegistry is a book for all the Persistent&lt;T&gt; or Volatile&lt;T&gt; variables. " alt="" coords="1207,211,1401,237"/>
+<area shape="rect" id="node10" href="$structmutils_1_1RemoteDeserializationContext.html" title="If a class which implements ByteRepresentable requires a context in order to correctly deserialize..." alt="" coords="783,138,980,179"/>
+<area shape="rect" id="node11" href="$classpersistent_1_1ITemporalQueryFrontierProvider.html" title="persistent::ITemporalQuery\lFrontierProvider" alt="" coords="791,203,971,245"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="841,269,921,296"/>
+<area shape="rect" id="node16" href="$classpersistent_1_1PersistLog.html" title="persistent::PersistLog" alt="" coords="1229,347,1379,373"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="474,262,601,303"/>
+<area shape="rect" id="node18" href="$structpersistent_1_1hlc__index__entry.html" title="persistent::hlc_index\l_entry" alt="" coords="466,327,609,369"/>
+<area shape="rect" id="node19" href="$classHLC.html" title="HLC" alt="" coords="266,335,315,361"/>
+<area shape="rect" id="node22" href="$classpersistent_1_1IDeltaSupport.html" title="persistent::IDeltaSupport\l\&lt; DeltaObjectStoreCore \&gt;" alt="" coords="794,451,969,493"/>
+<area shape="rect" id="node23" href="$classpersistent_1_1IDeltaObjectFactory.html" title="persistent::IDeltaObject\lFactory\&lt; DeltaObjectStoreCore \&gt;" alt="" coords="428,451,647,493"/>
 </map>

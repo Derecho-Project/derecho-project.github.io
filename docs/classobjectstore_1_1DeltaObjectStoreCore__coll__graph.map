@@ -1,6 +1,7 @@
 <map id="objectstore::DeltaObjectStoreCore" name="objectstore::DeltaObjectStoreCore">
-<area shape="rect" id="node1" title=" " alt="" coords="275,57,437,98"/>
-<area shape="rect" id="node2" title=" " alt="" coords="26,5,159,32"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,57,180,98"/>
-<area shape="rect" id="node4" title=" " alt="" coords="9,123,176,149"/>
+<area shape="rect" id="node2" href="$structmutils_1_1ByteRepresentable.html" title="A non&#45;POD type which wishes to mark itself byte representable should extend this class. " alt="" coords="5,43,181,69"/>
+<area shape="rect" id="node6" href="$classobjectstore_1_1Object.html" title="objectstore::Object" alt="" coords="471,60,603,87"/>
+<area shape="rect" id="node7" href="$classobjectstore_1_1Blob.html" title="objectstore::Blob" alt="" coords="231,93,351,120"/>
+<area shape="rect" id="node3" href="$classpersistent_1_1IDeltaSupport.html" title="persistent::IDeltaSupport\l\&lt; DeltaObjectStoreCore \&gt;" alt="" coords="755,171,930,213"/>
+<area shape="rect" id="node4" href="$classpersistent_1_1IDeltaObjectFactory.html" title="persistent::IDeltaObject\lFactory\&lt; DeltaObjectStoreCore \&gt;" alt="" coords="428,171,647,213"/>
 </map>

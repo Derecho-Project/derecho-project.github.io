@@ -1,0 +1,6 @@
+<map id="sst::P2PConnections" name="sst::P2PConnections">
+<area shape="rect" id="node7" href="$classsst_1_1resources.html" title="A public&#45;facing version of the internal _resources class that extends it with more convenient functio..." alt="" coords="436,159,541,186"/>
+<area shape="rect" id="node8" href="$classsst_1_1__resources.html" title="Represents the set of RDMA resources needed to maintain a two&#45;way connection to a single remote node..." alt="" coords="275,159,387,186"/>
+<area shape="rect" id="node9" href="$namespacesst.html#structsst_1_1cm__con__data__t" title="Structure to exchange the data needed to connect the Queue Pairs. " alt="" coords="5,159,143,186"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="932,335,1016,362"/>
+</map>

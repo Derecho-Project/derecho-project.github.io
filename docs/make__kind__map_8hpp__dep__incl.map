@@ -1,0 +1,12 @@
+<map id="include/derecho/core/detail/make_kind_map.hpp" name="include/derecho/core/detail/make_kind_map.hpp">
+<area shape="rect" id="node2" href="$group__impl_8hpp.html" title="include/derecho/core\l/detail/group_impl.hpp" alt="" coords="445,95,594,136"/>
+<area shape="rect" id="node3" href="$group_8hpp.html" title="include/derecho/core\l/group.hpp" alt="" coords="448,184,591,225"/>
+<area shape="rect" id="node4" href="$derecho_8hpp.html" title="include/derecho/core\l/derecho.hpp" alt="" coords="448,273,591,315"/>
+<area shape="rect" id="node5" href="$Object_8hpp.html" title="include/derecho/objectstore\l/Object.hpp" alt="" coords="429,363,610,404"/>
+<area shape="rect" id="node6" href="$ObjectStore_8hpp.html" title="include/derecho/objectstore\l/ObjectStore.hpp" alt="" coords="327,452,509,493"/>
+<area shape="rect" id="node11" href="$Object_8cpp.html" title="src/objectstore/Object.cpp" alt="" coords="533,459,708,486"/>
+<area shape="rect" id="node7" href="$ObjectStoreService_8cpp.html" title="src/objectstore/java\l/com/derecho/objectstore\l/ObjectStoreService.cpp" alt="" coords="5,541,175,597"/>
+<area shape="rect" id="node8" href="$ObjectStore_8cpp.html" title="src/objectstore/ObjectStore.cpp" alt="" coords="199,556,405,583"/>
+<area shape="rect" id="node9" href="$performance_8cpp.html" title="src/objectstore/performance.cpp" alt="" coords="429,556,639,583"/>
+<area shape="rect" id="node10" href="$objectstore_2test_8cpp.html" title="src/objectstore/test.cpp" alt="" coords="663,556,821,583"/>
+</map>

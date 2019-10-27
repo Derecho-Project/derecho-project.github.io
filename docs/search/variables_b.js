@@ -1,6 +1,25 @@
 var searchData=
 [
-  ['latency',['latency',['../structexp__result.html#a6766812741c6bddb271b0ff46cf8b23d',1,'exp_result']]],
-  ['lid',['lid',['../namespacerdma.html#aedb72d3c4ca83f055433c76effaf4030',1,'rdma::cm_con_data_t::lid()'],['../verbs__helper_8cpp.html#a16870a9bf8dc2c31ee3c874d7adbd02a',1,'lid():&#160;verbs_helper.cpp']]],
-  ['log',['log',['../classStringObject.html#a812c25c27d5c431d0bc392b7fe37f9ba',1,'StringObject']]]
+  ['last_5fknown_5fview_5fmembers',['last_known_view_members',['../classderecho_1_1RestartLeaderState.html#a8b5ee977309f0a3bb6511fb283660489',1,'derecho::RestartLeaderState']]],
+  ['last_5frank',['last_rank',['../classsst_1_1P2PConnections.html#a928d9fee861bf49f24b70132d926b6fa',1,'sst::P2PConnections']]],
+  ['last_5fsuspected',['last_suspected',['../classderecho_1_1ViewManager.html#a7ebc1fc405fd71fcc399e8f36a2e47d3',1,'derecho::ViewManager']]],
+  ['last_5ftransfer_5fmedium',['last_transfer_medium',['../classderecho_1_1MulticastGroup.html#aa0fcce72535339664ad0f99e56586bfa',1,'derecho::MulticastGroup']]],
+  ['last_5ftype',['last_type',['../classsst_1_1P2PConnections.html#aca0f58b2d19df8cab4ede3540a3a012e',1,'sst::P2PConnections']]],
+  ['leader_5fcommitted_5fhandle',['leader_committed_handle',['../classderecho_1_1ViewManager.html#a157530f03aaec0493b03a4cf770e4a22',1,'derecho::ViewManager']]],
+  ['leader_5fconnection',['leader_connection',['../classderecho_1_1Group.html#a80efff7e5a3654bb456ce0084a5c8864',1,'derecho::Group']]],
+  ['leader_5fid',['leader_id',['../structderecho_1_1RaggedTrim.html#a90d5f56a05c1942d12af7f706d14d454',1,'derecho::RaggedTrim::leader_id()'],['../namespacederecho.html#a9cc9007490ab7831ba3375b276acc4cf',1,'derecho::JoinResponse::leader_id()']]],
+  ['leader_5fproposed_5fhandle',['leader_proposed_handle',['../classderecho_1_1ViewManager.html#ab12e0b58d3b9db4a2746cb025c5fd232',1,'derecho::ViewManager']]],
+  ['length',['length',['../classsst_1_1SSTFieldVector.html#aae2a5f62ba6cb3da3c158879c2f90a96',1,'sst::SSTFieldVector']]],
+  ['lid',['lid',['../namespacesst.html#a66e3522459721d8191ae58624d3b7214',1,'sst::cm_con_data_t::lid()'],['../namespacerdma.html#aedb72d3c4ca83f055433c76effaf4030',1,'rdma::cm_con_data_t::lid()'],['../verbs_8hpp.html#a16870a9bf8dc2c31ee3c874d7adbd02a',1,'lid():&#160;verbs.hpp'],['../verbs__helper_8cpp.html#a16870a9bf8dc2c31ee3c874d7adbd02a',1,'lid():&#160;verbs_helper.cpp']]],
+  ['line',['line',['../rdmc_2detail_2util_8hpp.html#a325800268184b198d60356ec4dcfbe04',1,'event']]],
+  ['local_5fpersistence_5fcallback',['local_persistence_callback',['../namespacederecho.html#a9554119625a241ffe9c2b11cac9cc305',1,'derecho::CallbackSet']]],
+  ['local_5fstability_5ffrontier',['local_stability_frontier',['../classderecho_1_1DerechoSST.html#a31d9d0b7e8e1a1704fa588081de9fb86',1,'derecho::DerechoSST']]],
+  ['locally_5fstable_5frdmc_5fmessages',['locally_stable_rdmc_messages',['../classderecho_1_1MulticastGroup.html#ad159aafdc82a0c7579f33035ebeda799',1,'derecho::MulticastGroup']]],
+  ['locally_5fstable_5fsst_5fmessages',['locally_stable_sst_messages',['../classderecho_1_1MulticastGroup.html#a231d7637581bdfc64b5bf61b0c58449f',1,'derecho::MulticastGroup']]],
+  ['lock',['lock',['../classderecho_1_1LockedReference.html#acf3f19f80ab9c5f6b276f82856e03eda',1,'derecho::LockedReference::lock()'],['../structderecho_1_1LockedQueue_1_1LockedListAccess.html#a23a7bcc0099fb4c22580cdb6c6388620',1,'derecho::LockedQueue::LockedListAccess::lock()'],['../classrdmc_1_1barrier__group.html#a65de9fa90a29e599a6f4bcd3849adaa6',1,'rdmc::barrier_group::lock()']]],
+  ['log2_5fnum_5fmembers',['log2_num_members',['../classbinomial__schedule.html#ace6fce23aead28446873f4e2f19d6845',1,'binomial_schedule']]],
+  ['log_5fidx',['log_idx',['../structpersistent_1_1hlc__index__entry.html#ab0a495cfef4680cefeae54a6d02a7228',1,'persistent::hlc_index_entry']]],
+  ['logged_5fragged_5ftrim',['logged_ragged_trim',['../structderecho_1_1RestartState.html#ae909b0ed01e2f2b35dfe5a8a95df2293',1,'derecho::RestartState']]],
+  ['long_5foptions',['long_options',['../classderecho_1_1Conf.html#a7287bd4d01d3ad3b67bcd50d7fd7985e',1,'derecho::Conf']]],
+  ['longest_5flog_5fversions',['longest_log_versions',['../classderecho_1_1RestartLeaderState.html#a786d695f407ce24448fa0a4b0b28daa4',1,'derecho::RestartLeaderState']]]
 ];

@@ -1,7 +1,6 @@
 <map id="src/core/connection_manager.cpp" name="src/core/connection_manager.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="212,5,348,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,95,176,136"/>
-<area shape="rect" id="node3" title=" " alt="" coords="201,102,266,129"/>
-<area shape="rect" id="node4" title=" " alt="" coords="291,102,363,129"/>
-<area shape="rect" id="node5" title=" " alt="" coords="387,102,427,129"/>
+<area shape="rect" id="node2" href="$connection__manager_8hpp.html" title="derecho/core/detail\l/connection_manager.hpp" alt="" coords="94,95,265,136"/>
+<area shape="rect" id="node6" href="$derecho__type__definitions_8hpp.html" title="../derecho_type_definitions.hpp" alt="" coords="217,184,419,211"/>
+<area shape="rect" id="node7" href="$locked__reference_8hpp.html" title="locked_reference.hpp" alt="" coords="443,184,590,211"/>
+<area shape="rect" id="node8" href="$tcp_8hpp.html" title="derecho/tcp/tcp.hpp" alt="" coords="615,184,752,211"/>
 </map>

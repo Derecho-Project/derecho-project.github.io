@@ -1,9 +1,10 @@
 <map id="src/rdmc/group_send.cpp" name="src/rdmc/group_send.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="391,5,560,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,143,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="167,80,303,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="327,80,463,121"/>
-<area shape="rect" id="node5" title=" " alt="" coords="487,80,623,121"/>
-<area shape="rect" id="node6" title=" " alt="" coords="648,87,713,114"/>
-<area shape="rect" id="node7" title=" " alt="" coords="738,87,799,114"/>
+<area shape="rect" id="node2" href="$group__send_8hpp.html" title="derecho/rdmc/group\l_send.hpp" alt="" coords="412,80,549,121"/>
+<area shape="rect" id="node4" href="$lf__helper_8hpp.html" title="detail/lf_helper.hpp" alt="" coords="594,259,725,285"/>
+<area shape="rect" id="node19" href="$message_8hpp.html" title="derecho/rdmc/detail\l/message.hpp" alt="" coords="1137,80,1273,121"/>
+<area shape="rect" id="node21" href="$rdmc_2detail_2util_8hpp.html" title="derecho/rdmc/detail\l/util.hpp" alt="" coords="1031,169,1167,211"/>
+<area shape="rect" id="node3" href="$rdmc_8hpp.html" title="derecho/rdmc/rdmc.hpp" alt="" coords="463,177,621,203"/>
+<area shape="rect" id="node16" href="$schedule_8hpp.html" title="detail/schedule.hpp" alt="" coords="5,259,140,285"/>
+<area shape="rect" id="node13" href="$derecho__type__definitions_8hpp.html" title="derecho/core/derecho\l_type_definitions.hpp" alt="" coords="586,333,733,375"/>
+<area shape="rect" id="node22" href="$time_8h.html" title="derecho/utils/time.h" alt="" coords="1135,259,1271,285"/>
 </map>

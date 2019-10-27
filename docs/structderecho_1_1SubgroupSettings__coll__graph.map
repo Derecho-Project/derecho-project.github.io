@@ -1,0 +1,4 @@
+<map id="derecho::SubgroupSettings" name="derecho::SubgroupSettings">
+<area shape="rect" id="node3" href="$structderecho_1_1DerechoParams.html" title="Bundles together a set of low&#45;level parameters for configuring Derecho groups. " alt="" coords="194,81,365,108"/>
+<area shape="rect" id="node4" href="$structmutils_1_1ByteRepresentable.html" title="A non&#45;POD type which wishes to mark itself byte representable should extend this class. " alt="" coords="191,5,367,32"/>
+</map>

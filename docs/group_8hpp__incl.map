@@ -1,0 +1,25 @@
+<map id="include/derecho/core/group.hpp" name="include/derecho/core/group.hpp">
+<area shape="rect" id="node16" href="$tcp_8hpp.html" title="derecho/tcp/tcp.hpp" alt="" coords="1545,579,1682,606"/>
+<area shape="rect" id="node20" href="$derecho__exception_8hpp.html" title="derecho_exception.hpp" alt="" coords="3915,669,4071,695"/>
+<area shape="rect" id="node23" href="$derecho__internal_8hpp.html" title="detail/derecho_internal.hpp" alt="" coords="2667,579,2845,606"/>
+<area shape="rect" id="node28" href="$persistence__manager_8hpp.html" title="detail/persistence\l_manager.hpp" alt="" coords="2290,95,2414,136"/>
+<area shape="rect" id="node33" href="$replicated_8hpp.html" title="../replicated.hpp" alt="" coords="2900,184,3015,211"/>
+<area shape="rect" id="node38" href="$rpc__manager_8hpp.html" title="detail/rpc_manager.hpp" alt="" coords="2129,259,2287,285"/>
+<area shape="rect" id="node41" href="$subgroup__info_8hpp.html" title="../subgroup_info.hpp" alt="" coords="1227,579,1367,606"/>
+<area shape="rect" id="node42" href="$conf_8hpp.html" title="derecho/conf/conf.hpp" alt="" coords="595,579,746,606"/>
+<area shape="rect" id="node44" href="$view__manager_8hpp.html" title="view_manager.hpp" alt="" coords="1573,333,1704,360"/>
+<area shape="rect" id="node50" href="$group__impl_8hpp.html" title="detail/group_impl.hpp" alt="" coords="2998,490,3143,517"/>
+<area shape="rect" id="node21" href="$git__version_8hpp.html" title="derecho/core/git_version.hpp" alt="" coords="3899,751,4088,777"/>
+<area shape="rect" id="node25" href="$derecho__type__definitions_8hpp.html" title="../derecho_type_definitions.hpp" alt="" coords="3240,669,3443,695"/>
+<area shape="rect" id="node26" href="$HLC_8hpp.html" title="derecho/persistent\l/HLC.hpp" alt="" coords="2769,661,2898,703"/>
+<area shape="rect" id="node27" href="$PersistentTypenames_8hpp.html" title="This file defines some type aliases used by the Persistence library. " alt="" coords="2413,661,2592,703"/>
+<area shape="rect" id="node37" href="$logger_8hpp.html" title="derecho/utils/logger.hpp" alt="" coords="3072,579,3232,606"/>
+<area shape="rect" id="node47" href="$Persistent_8hpp.html" title="derecho/persistent\l/Persistent.hpp" alt="" coords="2641,483,2770,524"/>
+<area shape="rect" id="node34" href="$remote__invocable_8hpp.html" title="detail/remote_invocable.hpp" alt="" coords="3219,408,3403,435"/>
+<area shape="rect" id="node35" href="$rpc__utils_8hpp.html" title="rpc_utils.hpp" alt="" coords="3528,490,3624,517"/>
+<area shape="rect" id="node36" href="$SerializationSupport_8hpp.html" title="derecho/mutils&#45;serialization\l/SerializationSupport.hpp" alt="" coords="2259,572,2439,613"/>
+<area shape="rect" id="node39" href="$view_8hpp.html" title="../view.hpp" alt="" coords="1982,408,2069,435"/>
+<area shape="rect" id="node43" href="$p2p__connections_8hpp.html" title="p2p_connections.hpp" alt="" coords="1450,490,1595,517"/>
+<area shape="rect" id="node40" href="$multicast__group_8hpp.html" title="detail/multicast_group.hpp" alt="" coords="1001,490,1175,517"/>
+<area shape="rect" id="node46" href="$locked__reference_8hpp.html" title="locked_reference.hpp" alt="" coords="424,408,571,435"/>
+</map>

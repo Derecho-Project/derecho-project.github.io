@@ -1,7 +1,6 @@
 <map id="objectstore::VolatileUnloggedObjectStore" name="objectstore::VolatileUnloggedObjectStore">
-<area shape="rect" id="node1" title=" " alt="" coords="218,80,410,121"/>
-<area shape="rect" id="node2" href="$classobjectstore_1_1IReplica.html" title=" " alt="" coords="5,5,148,32"/>
-<area shape="rect" id="node3" title=" " alt="" coords="173,5,306,32"/>
-<area shape="rect" id="node4" title=" " alt="" coords="330,5,447,32"/>
-<area shape="rect" id="node5" href="$classobjectstore_1_1IObjectStoreAPI.html" title=" " alt="" coords="471,5,661,32"/>
+<area shape="rect" id="node2" href="$classobjectstore_1_1IReplica.html" title="objectstore::IReplica" alt="" coords="29,5,171,32"/>
+<area shape="rect" id="node3" href="$structmutils_1_1ByteRepresentable.html" title="A non&#45;POD type which wishes to mark itself byte representable should extend this class. " alt="" coords="12,56,188,83"/>
+<area shape="rect" id="node4" href="$classderecho_1_1GroupReference.html" title="derecho::GroupReference" alt="" coords="15,107,185,133"/>
+<area shape="rect" id="node5" href="$classobjectstore_1_1IObjectStoreAPI.html" title="objectstore::IObjectStoreAPI" alt="" coords="5,157,195,184"/>
 </map>

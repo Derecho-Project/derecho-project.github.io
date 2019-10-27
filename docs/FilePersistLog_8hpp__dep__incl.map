@@ -1,0 +1,23 @@
+<map id="include/derecho/persistent/detail/FilePersistLog.hpp" name="include/derecho/persistent/detail/FilePersistLog.hpp">
+<area shape="rect" id="node2" href="$Persistent_8hpp.html" title="include/derecho/persistent\l/Persistent.hpp" alt="" coords="809,95,984,136"/>
+<area shape="rect" id="node22" href="$FilePersistLog_8cpp.html" title="src/persistent/FilePersist\lLog.cpp" alt="" coords="1008,95,1175,136"/>
+<area shape="rect" id="node3" href="$persistence__manager_8hpp.html" title="include/derecho/core\l/detail/persistence_manager.hpp" alt="" coords="415,273,626,315"/>
+<area shape="rect" id="node6" href="$Object_8hpp.html" title="include/derecho/objectstore\l/Object.hpp" alt="" coords="429,541,610,583"/>
+<area shape="rect" id="node15" href="$replicated_8hpp.html" title="include/derecho/core\l/replicated.hpp" alt="" coords="665,184,808,225"/>
+<area shape="rect" id="node17" href="$view__manager_8cpp.html" title="src/core/view_manager.cpp" alt="" coords="899,281,1081,307"/>
+<area shape="rect" id="node18" href="$multicast__group_8cpp.html" title="src/core/multicast\l_group.cpp" alt="" coords="884,184,1011,225"/>
+<area shape="rect" id="node19" href="$restart__state_8cpp.html" title="src/core/restart_state.cpp" alt="" coords="1035,191,1206,218"/>
+<area shape="rect" id="node20" href="$Persistent_8cpp.html" title="src/persistent/Persistent.cpp" alt="" coords="1230,191,1419,218"/>
+<area shape="rect" id="node21" href="$persistent_2test_8cpp.html" title="src/persistent/test.cpp" alt="" coords="1443,191,1595,218"/>
+<area shape="rect" id="node4" href="$group_8hpp.html" title="include/derecho/core\l/group.hpp" alt="" coords="597,363,740,404"/>
+<area shape="rect" id="node14" href="$persistence__manager_8cpp.html" title="src/core/persistence\l_manager.cpp" alt="" coords="433,363,573,404"/>
+<area shape="rect" id="node5" href="$derecho_8hpp.html" title="include/derecho/core\l/derecho.hpp" alt="" coords="669,452,812,493"/>
+<area shape="rect" id="node13" href="$group__impl_8hpp.html" title="include/derecho/core\l/detail/group_impl.hpp" alt="" coords="495,452,645,493"/>
+<area shape="rect" id="node7" href="$ObjectStore_8hpp.html" title="include/derecho/objectstore\l/ObjectStore.hpp" alt="" coords="327,631,509,672"/>
+<area shape="rect" id="node12" href="$Object_8cpp.html" title="src/objectstore/Object.cpp" alt="" coords="533,638,708,665"/>
+<area shape="rect" id="node8" href="$ObjectStoreService_8cpp.html" title="src/objectstore/java\l/com/derecho/objectstore\l/ObjectStoreService.cpp" alt="" coords="5,720,175,776"/>
+<area shape="rect" id="node9" href="$ObjectStore_8cpp.html" title="src/objectstore/ObjectStore.cpp" alt="" coords="199,735,405,761"/>
+<area shape="rect" id="node10" href="$performance_8cpp.html" title="src/objectstore/performance.cpp" alt="" coords="429,735,639,761"/>
+<area shape="rect" id="node11" href="$objectstore_2test_8cpp.html" title="src/objectstore/test.cpp" alt="" coords="663,735,821,761"/>
+<area shape="rect" id="node16" href="$replicated__impl_8hpp.html" title="include/derecho/core\l/detail/replicated_impl.hpp" alt="" coords="650,273,823,315"/>
+</map>

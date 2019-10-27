@@ -1,0 +1,13 @@
+<map id="include/derecho/core/detail/persistence_manager.hpp" name="include/derecho/core/detail/persistence_manager.hpp">
+<area shape="rect" id="node2" href="$group_8hpp.html" title="include/derecho/core\l/group.hpp" alt="" coords="619,95,761,136"/>
+<area shape="rect" id="node12" href="$persistence__manager_8cpp.html" title="src/core/persistence\l_manager.cpp" alt="" coords="785,95,925,136"/>
+<area shape="rect" id="node3" href="$derecho_8hpp.html" title="include/derecho/core\l/derecho.hpp" alt="" coords="448,184,591,225"/>
+<area shape="rect" id="node11" href="$group__impl_8hpp.html" title="include/derecho/core\l/detail/group_impl.hpp" alt="" coords="615,184,765,225"/>
+<area shape="rect" id="node4" href="$Object_8hpp.html" title="include/derecho/objectstore\l/Object.hpp" alt="" coords="429,273,610,315"/>
+<area shape="rect" id="node5" href="$ObjectStore_8hpp.html" title="include/derecho/objectstore\l/ObjectStore.hpp" alt="" coords="327,363,509,404"/>
+<area shape="rect" id="node10" href="$Object_8cpp.html" title="src/objectstore/Object.cpp" alt="" coords="533,370,708,397"/>
+<area shape="rect" id="node6" href="$ObjectStoreService_8cpp.html" title="src/objectstore/java\l/com/derecho/objectstore\l/ObjectStoreService.cpp" alt="" coords="5,452,175,508"/>
+<area shape="rect" id="node7" href="$ObjectStore_8cpp.html" title="src/objectstore/ObjectStore.cpp" alt="" coords="199,467,405,493"/>
+<area shape="rect" id="node8" href="$performance_8cpp.html" title="src/objectstore/performance.cpp" alt="" coords="429,467,639,493"/>
+<area shape="rect" id="node9" href="$objectstore_2test_8cpp.html" title="src/objectstore/test.cpp" alt="" coords="663,467,821,493"/>
+</map>

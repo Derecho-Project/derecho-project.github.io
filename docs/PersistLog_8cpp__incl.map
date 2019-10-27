@@ -1,6 +1,9 @@
 <map id="src/persistent/PersistLog.cpp" name="src/persistent/PersistLog.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="146,5,338,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,153,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="177,80,307,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="331,87,491,114"/>
+<area shape="rect" id="node2" href="$PersistLog_8hpp.html" title="derecho/persistent\l/detail/PersistLog.hpp" alt="" coords="407,80,555,121"/>
+<area shape="rect" id="node15" href="$persistent_2detail_2util_8hpp.html" title="derecho/persistent\l/detail/util.hpp" alt="" coords="918,80,1047,121"/>
+<area shape="rect" id="node27" href="$logger_8hpp.html" title="derecho/utils/logger.hpp" alt="" coords="1227,87,1387,114"/>
+<area shape="rect" id="node3" href="$HLC_8hpp.html" title="../HLC.hpp" alt="" coords="267,169,354,196"/>
+<area shape="rect" id="node7" href="$PersistException_8hpp.html" title="../PersistException.hpp" alt="" coords="646,169,805,196"/>
+<area shape="rect" id="node8" href="$PersistentTypenames_8hpp.html" title="This file defines some type aliases used by the Persistence library. " alt="" coords="5,169,192,196"/>
+<area shape="rect" id="node16" href="$conf_8hpp.html" title="derecho/conf/conf.hpp" alt="" coords="1078,169,1229,196"/>
 </map>

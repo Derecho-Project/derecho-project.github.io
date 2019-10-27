@@ -1,3 +1,12 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structexp__result.html" title=" " alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node1" title="STL class. " alt="" coords="5,242,109,269"/>
+<area shape="rect" id="node2" href="$structderecho_1_1derecho__exception.html" title="Base exception class for all exceptions raised by Derecho. " alt="" coords="157,217,343,243"/>
+<area shape="rect" id="node10" href="$structtcp_1_1connection__failure.html" title="tcp::connection_failure" alt="" coords="173,267,327,294"/>
+<area shape="rect" id="node3" href="$structderecho_1_1empty__reference__exception.html" title="Exception that means a reference&#45;like type is &quot;empty&quot; (does not contain a valid object). " alt="" coords="411,5,585,47"/>
+<area shape="rect" id="node4" href="$structderecho_1_1invalid__node__exception.html" title="Exception that means the user requested an operation targeting a specific node and that node was not ..." alt="" coords="424,71,572,112"/>
+<area shape="rect" id="node5" href="$structderecho_1_1invalid__subgroup__exception.html" title="Exception that means the user made an invalid request for a subgroup handle, such as by supplying an ..." alt="" coords="411,136,585,177"/>
+<area shape="rect" id="node6" href="$structderecho_1_1rpc_1_1node__removed__from__group__exception.html" title="Indicates that an RPC call to a node failed because the node was removed from the Replicated Object&#39;s..." alt="" coords="423,202,573,258"/>
+<area shape="rect" id="node7" href="$structderecho_1_1rpc_1_1remote__exception__occurred.html" title="Indicates that an RPC call failed because executing the RPC function on the remote node resulted in a..." alt="" coords="427,283,569,324"/>
+<area shape="rect" id="node8" href="$structderecho_1_1rpc_1_1sender__removed__from__group__exception.html" title="Indicates that an RPC call from this node was aborted because this node was removed from its subgroup..." alt="" coords="391,348,605,389"/>
+<area shape="rect" id="node9" href="$classderecho_1_1subgroup__provisioning__exception.html" title="An exception that indicates that a subgroup membership function was unable to finish executing becaus..." alt="" coords="395,413,601,455"/>
 </map>

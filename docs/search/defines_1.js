@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['align_5fto_5fpage',['ALIGN_TO_PAGE',['../FilePersistLog_8hpp.html#ad7a0e330daf48b9192c9772d13232b4c',1,'FilePersistLog.hpp']]],
   ['ansi_5fcolor_5fblue',['ANSI_COLOR_BLUE',['../experiment_8cpp.html#aca16e6a49eb51333c5fd3eee19487315',1,'experiment.cpp']]],
   ['ansi_5fcolor_5fcyan',['ANSI_COLOR_CYAN',['../experiment_8cpp.html#a8d0b0043e152438bb39b918a1f98c65f',1,'experiment.cpp']]],
   ['ansi_5fcolor_5fgreen',['ANSI_COLOR_GREEN',['../experiment_8cpp.html#a966c72d8d733c7734c6c784753d894c7',1,'experiment.cpp']]],

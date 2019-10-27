@@ -1,0 +1,6 @@
+<map id="polling_group" name="polling_group">
+<area shape="rect" id="node2" href="$classgroup.html" title="group" alt="" coords="769,81,823,108"/>
+<area shape="rect" id="node7" href="$classschedule.html" title="schedule" alt="" coords="49,157,123,184"/>
+<area shape="rect" id="node17" href="$classrdma_1_1memory__region.html" title="A wrapper for fi_close. " alt="" coords="338,308,486,335"/>
+<area shape="rect" id="node13" href="$classrdma_1_1endpoint.html" title="A C++ wrapper for the libfabric fid_ep struct and its associated functions. " alt="" coords="358,469,466,496"/>
+</map>

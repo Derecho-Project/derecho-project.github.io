@@ -1,10 +1,22 @@
 <map id="src/objectstore/ObjectStore.cpp" name="src/objectstore/ObjectStore.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="377,5,583,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,141,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="165,87,325,114"/>
-<area shape="rect" id="node4" title=" " alt="" coords="349,87,424,114"/>
-<area shape="rect" id="node5" title=" " alt="" coords="449,87,511,114"/>
-<area shape="rect" id="node6" title=" " alt="" coords="536,87,608,114"/>
-<area shape="rect" id="node7" title=" " alt="" coords="633,87,679,114"/>
-<area shape="rect" id="node8" title=" " alt="" coords="704,87,771,114"/>
+<area shape="rect" id="node2" href="$ObjectStore_8hpp.html" title="derecho/objectstore\l/ObjectStore.hpp" alt="" coords="1621,80,1757,121"/>
+<area shape="rect" id="node46" href="$logger_8hpp.html" title="derecho/utils/logger.hpp" alt="" coords="1979,415,2139,442"/>
+<area shape="rect" id="node4" href="$Object_8hpp.html" title="Object.hpp" alt="" coords="1647,169,1732,196"/>
+<area shape="rect" id="node11" href="$time_8h.html" title="time.h" alt="" coords="1649,333,1708,360"/>
+<area shape="rect" id="node16" href="$conf_8hpp.html" title="derecho/conf/conf.hpp" alt="" coords="593,415,743,442"/>
+<area shape="rect" id="node25" href="$derecho_8hpp.html" title="derecho/core/derecho.hpp" alt="" coords="1202,251,1374,278"/>
+<area shape="rect" id="node34" href="$SerializationSupport_8hpp.html" title="derecho/mutils&#45;serialization\l/SerializationSupport.hpp" alt="" coords="2857,408,3037,449"/>
+<area shape="rect" id="node42" href="$Persistent_8hpp.html" title="derecho/persistent\l/Persistent.hpp" alt="" coords="2255,244,2385,285"/>
+<area shape="rect" id="node26" href="$derecho__exception_8hpp.html" title="derecho_exception.hpp" alt="" coords="1326,415,1482,442"/>
+<area shape="rect" id="node27" href="$derecho__internal_8hpp.html" title="detail/derecho_internal.hpp" alt="" coords="1022,415,1199,442"/>
+<area shape="rect" id="node29" href="$derecho__type__definitions_8hpp.html" title="../derecho_type_definitions.hpp" alt="" coords="955,519,1157,546"/>
+<area shape="rect" id="node33" href="$group_8hpp.html" title="group.hpp" alt="" coords="1249,333,1327,360"/>
+<area shape="rect" id="node30" href="$HLC_8hpp.html" title="derecho/persistent\l/HLC.hpp" alt="" coords="2379,512,2509,553"/>
+<area shape="rect" id="node32" href="$PersistentTypenames_8hpp.html" title="This file defines some type aliases used by the Persistence library. " alt="" coords="1671,512,1849,553"/>
+<area shape="rect" id="node35" href="$SerializationMacros_8hpp.html" title="SerializationMacros.hpp" alt="" coords="3617,519,3778,546"/>
+<area shape="rect" id="node37" href="$context__ptr_8hpp.html" title="context_ptr.hpp" alt="" coords="2767,519,2879,546"/>
+<area shape="rect" id="node43" href="$FilePersistLog_8hpp.html" title="detail/FilePersistLog.hpp" alt="" coords="2237,333,2403,360"/>
+<area shape="rect" id="node44" href="$PersistLog_8hpp.html" title="PersistLog.hpp" alt="" coords="2365,415,2475,442"/>
+<area shape="rect" id="node45" href="$PersistException_8hpp.html" title="../PersistException.hpp" alt="" coords="2533,519,2691,546"/>
+<area shape="rect" id="node48" href="$PersistNoLog_8hpp.html" title="PersistNoLog.hpp" alt="" coords="2478,333,2605,360"/>
 </map>

@@ -1,0 +1,16 @@
+<map id="include/derecho/core/detail/replicated_impl.hpp" name="include/derecho/core/detail/replicated_impl.hpp">
+<area shape="rect" id="node2" href="$replicated_8hpp.html" title="include/derecho/core\l/replicated.hpp" alt="" coords="761,95,904,136"/>
+<area shape="rect" id="node3" href="$persistence__manager_8hpp.html" title="include/derecho/core\l/detail/persistence_manager.hpp" alt="" coords="727,184,938,225"/>
+<area shape="rect" id="node4" href="$group_8hpp.html" title="include/derecho/core\l/group.hpp" alt="" coords="619,273,761,315"/>
+<area shape="rect" id="node15" href="$view__manager_8cpp.html" title="src/core/view_manager.cpp" alt="" coords="963,191,1145,218"/>
+<area shape="rect" id="node14" href="$persistence__manager_8cpp.html" title="src/core/persistence\l_manager.cpp" alt="" coords="785,273,925,315"/>
+<area shape="rect" id="node5" href="$derecho_8hpp.html" title="include/derecho/core\l/derecho.hpp" alt="" coords="448,363,591,404"/>
+<area shape="rect" id="node13" href="$group__impl_8hpp.html" title="include/derecho/core\l/detail/group_impl.hpp" alt="" coords="615,363,765,404"/>
+<area shape="rect" id="node6" href="$Object_8hpp.html" title="include/derecho/objectstore\l/Object.hpp" alt="" coords="429,452,610,493"/>
+<area shape="rect" id="node7" href="$ObjectStore_8hpp.html" title="include/derecho/objectstore\l/ObjectStore.hpp" alt="" coords="327,541,509,583"/>
+<area shape="rect" id="node12" href="$Object_8cpp.html" title="src/objectstore/Object.cpp" alt="" coords="533,549,708,575"/>
+<area shape="rect" id="node8" href="$ObjectStoreService_8cpp.html" title="src/objectstore/java\l/com/derecho/objectstore\l/ObjectStoreService.cpp" alt="" coords="5,631,175,687"/>
+<area shape="rect" id="node9" href="$ObjectStore_8cpp.html" title="src/objectstore/ObjectStore.cpp" alt="" coords="199,645,405,672"/>
+<area shape="rect" id="node10" href="$performance_8cpp.html" title="src/objectstore/performance.cpp" alt="" coords="429,645,639,672"/>
+<area shape="rect" id="node11" href="$objectstore_2test_8cpp.html" title="src/objectstore/test.cpp" alt="" coords="663,645,821,672"/>
+</map>

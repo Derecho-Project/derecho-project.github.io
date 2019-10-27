@@ -1,0 +1,21 @@
+<map id="include/derecho/core/view.hpp" name="include/derecho/core/view.hpp">
+<area shape="rect" id="node6" href="$derecho__internal_8hpp.html" title="detail/derecho_internal.hpp" alt="" coords="451,348,629,375"/>
+<area shape="rect" id="node16" href="$derecho__modes_8hpp.html" title="derecho_modes.hpp" alt="" coords="3692,177,3831,203"/>
+<area shape="rect" id="node17" href="$derecho__sst_8hpp.html" title="detail/derecho_sst.hpp" alt="" coords="698,177,851,203"/>
+<area shape="rect" id="node22" href="$sst_8hpp.html" title="derecho/sst/sst.hpp" alt="" coords="2454,266,2591,293"/>
+<area shape="rect" id="node35" href="$multicast__group_8hpp.html" title="detail/multicast_group.hpp" alt="" coords="1915,95,2090,121"/>
+<area shape="rect" id="node43" href="$SerializationMacros_8hpp.html" title="derecho/mutils&#45;serialization\l/SerializationMacros.hpp" alt="" coords="3769,259,3949,300"/>
+<area shape="rect" id="node45" href="$SerializationSupport_8hpp.html" title="derecho/mutils&#45;serialization\l/SerializationSupport.hpp" alt="" coords="3386,169,3566,211"/>
+<area shape="rect" id="node13" href="$derecho__type__definitions_8hpp.html" title="../derecho_type_definitions.hpp" alt="" coords="845,430,1048,457"/>
+<area shape="rect" id="node14" href="$HLC_8hpp.html" title="derecho/persistent\l/HLC.hpp" alt="" coords="145,423,274,464"/>
+<area shape="rect" id="node15" href="$PersistentTypenames_8hpp.html" title="This file defines some type aliases used by the Persistence library. " alt="" coords="349,423,528,464"/>
+<area shape="rect" id="node31" href="$predicates_8hpp.html" title="predicates.hpp" alt="" coords="2499,430,2605,457"/>
+<area shape="rect" id="node32" href="$conf_8hpp.html" title="derecho/conf/conf.hpp" alt="" coords="1777,348,1927,375"/>
+<area shape="rect" id="node33" href="$lf_8hpp.html" title="detail/lf.hpp" alt="" coords="2145,348,2234,375"/>
+<area shape="rect" id="node34" href="$sst__impl_8hpp.html" title="detail/sst_impl.hpp" alt="" coords="2563,348,2693,375"/>
+<area shape="rect" id="node41" href="$subgroup__info_8hpp.html" title="../subgroup_info.hpp" alt="" coords="1211,348,1351,375"/>
+<area shape="rect" id="node42" href="$connection__manager_8hpp.html" title="connection_manager.hpp" alt="" coords="1383,266,1550,293"/>
+<area shape="rect" id="node48" href="$rdmc_8hpp.html" title="derecho/rdmc/rdmc.hpp" alt="" coords="1029,348,1187,375"/>
+<area shape="rect" id="node49" href="$multicast_8hpp.html" title="derecho/sst/multicast.hpp" alt="" coords="2069,177,2241,203"/>
+<area shape="rect" id="node46" href="$context__ptr_8hpp.html" title="context_ptr.hpp" alt="" coords="3385,266,3497,293"/>
+</map>

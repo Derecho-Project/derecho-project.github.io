@@ -1,0 +1,13 @@
+<map id="include/derecho/core/detail/remote_invocable.hpp" name="include/derecho/core/detail/remote_invocable.hpp">
+<area shape="rect" id="node5" href="$rpc__utils_8hpp.html" title="rpc_utils.hpp" alt="" coords="1163,95,1259,121"/>
+<area shape="rect" id="node29" href="$SerializationSupport_8hpp.html" title="derecho/mutils&#45;serialization\l/SerializationSupport.hpp" alt="" coords="2297,169,2477,211"/>
+<area shape="rect" id="node37" href="$logger_8hpp.html" title="derecho/utils/logger.hpp" alt="" coords="92,177,252,203"/>
+<area shape="rect" id="node18" href="$derecho__exception_8hpp.html" title="../derecho_exception.hpp" alt="" coords="592,177,760,203"/>
+<area shape="rect" id="node20" href="$derecho__type__definitions_8hpp.html" title="../derecho_type_definitions.hpp" alt="" coords="1641,266,1844,293"/>
+<area shape="rect" id="node21" href="$derecho__internal_8hpp.html" title="derecho_internal.hpp" alt="" coords="1303,177,1446,203"/>
+<area shape="rect" id="node19" href="$git__version_8hpp.html" title="derecho/core/git_version.hpp" alt="" coords="476,266,665,293"/>
+<area shape="rect" id="node25" href="$HLC_8hpp.html" title="derecho/persistent\l/HLC.hpp" alt="" coords="1218,259,1347,300"/>
+<area shape="rect" id="node28" href="$PersistentTypenames_8hpp.html" title="This file defines some type aliases used by the Persistence library. " alt="" coords="964,259,1143,300"/>
+<area shape="rect" id="node30" href="$SerializationMacros_8hpp.html" title="SerializationMacros.hpp" alt="" coords="2386,266,2547,293"/>
+<area shape="rect" id="node32" href="$context__ptr_8hpp.html" title="context_ptr.hpp" alt="" coords="2148,266,2260,293"/>
+</map>

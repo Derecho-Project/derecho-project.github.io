@@ -1,26 +1,5 @@
 var searchData=
 [
-  ['random_5fmessages_2ecpp',['random_messages.cpp',['../random__messages_8cpp.html',1,'']]],
-  ['random_5fthread_5freads_2ecpp',['random_thread_reads.cpp',['../random__thread__reads_8cpp.html',1,'']]],
-  ['raw_5frdma_5fread_2ecpp',['raw_rdma_read.cpp',['../raw__rdma__read_8cpp.html',1,'']]],
-  ['raw_5frdma_5fwrite_2ecpp',['raw_rdma_write.cpp',['../raw__rdma__write_8cpp.html',1,'']]],
-  ['raw_5fsend_5ftest_2ecpp',['raw_send_test.cpp',['../raw__send__test_8cpp.html',1,'']]],
-  ['rdma_5ffor_5fml_2ecpp',['rdma_for_ml.cpp',['../rdma__for__ml_8cpp.html',1,'']]],
-  ['rdma_5ftwo_5fsided_2ecpp',['rdma_two_sided.cpp',['../rdma__two__sided_8cpp.html',1,'']]],
-  ['rdmc_2ecpp',['rdmc.cpp',['../rdmc_8cpp.html',1,'']]],
-  ['rdmc_5ftest_2ecpp',['rdmc_test.cpp',['../rdmc__test_8cpp.html',1,'']]],
-  ['read_5favg_5ftime_2ecpp',['read_avg_time.cpp',['../read__avg__time_8cpp.html',1,'']]],
-  ['read_5fwrite_5favg_5ftime_2ecpp',['read_write_avg_time.cpp',['../read__write__avg__time_8cpp.html',1,'']]],
-  ['readme_2emd',['README.md',['../README_8md.html',1,'(Global Namespace)'],['../src_2applications_2demos_2README_8md.html',1,'(Global Namespace)'],['../src_2applications_2README_8md.html',1,'(Global Namespace)'],['../src_2objectstore_2java_2com_2derecho_2objectstore_2README_8md.html',1,'(Global Namespace)'],['../src_2objectstore_2README_8md.html',1,'(Global Namespace)'],['../src_2sst_2README_8md.html',1,'(Global Namespace)']]],
-  ['remote_5fread_2ecpp',['remote_read.cpp',['../remote__read_8cpp.html',1,'']]],
-  ['remote_5fwrite_2ecpp',['remote_write.cpp',['../remote__write_8cpp.html',1,'']]],
-  ['repeated_5frpc_5ftest_2ecpp',['repeated_rpc_test.cpp',['../repeated__rpc__test_8cpp.html',1,'']]],
-  ['restart_5fstate_2ecpp',['restart_state.cpp',['../restart__state_8cpp.html',1,'']]],
-  ['router_5fexperiment_2ecpp',['router_experiment.cpp',['../router__experiment_8cpp.html',1,'']]],
-  ['routing_2ecpp',['routing.cpp',['../routing_8cpp.html',1,'']]],
-  ['row_5fsize_5fscaling_5fread_2ecpp',['row_size_scaling_read.cpp',['../row__size__scaling__read_8cpp.html',1,'']]],
-  ['row_5fsize_5fscaling_5fwrite_2ecpp',['row_size_scaling_write.cpp',['../row__size__scaling__write_8cpp.html',1,'']]],
-  ['rpc_5ffunction_5ftypes_2ecpp',['rpc_function_types.cpp',['../rpc__function__types_8cpp.html',1,'']]],
-  ['rpc_5fmanager_2ecpp',['rpc_manager.cpp',['../rpc__manager_8cpp.html',1,'']]],
-  ['rpc_5freply_5fmaps_2ecpp',['rpc_reply_maps.cpp',['../rpc__reply__maps_8cpp.html',1,'']]]
+  ['util_2ecpp',['util.cpp',['../util_8cpp.html',1,'']]],
+  ['util_2ehpp',['util.hpp',['../persistent_2detail_2util_8hpp.html',1,'(Global Namespace)'],['../rdmc_2detail_2util_8hpp.html',1,'(Global Namespace)']]]
 ];

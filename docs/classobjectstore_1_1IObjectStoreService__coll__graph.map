@@ -1,0 +1,4 @@
+<map id="objectstore::IObjectStoreService" name="objectstore::IObjectStoreService">
+<area shape="rect" id="node2" href="$structderecho_1_1IDeserializationContext.html" title="The Deserialization Interface to be implemented by user applications. " alt="" coords="21,95,187,136"/>
+<area shape="rect" id="node3" href="$structmutils_1_1RemoteDeserializationContext.html" title="If a class which implements ByteRepresentable requires a context in order to correctly deserialize..." alt="" coords="5,5,203,47"/>
+</map>

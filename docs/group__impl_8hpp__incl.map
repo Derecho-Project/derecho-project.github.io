@@ -1,0 +1,20 @@
+<map id="include/derecho/core/detail/group_impl.hpp" name="include/derecho/core/detail/group_impl.hpp">
+<area shape="rect" id="node2" href="$SerializationSupport_8hpp.html" title="derecho/mutils&#45;serialization\l/SerializationSupport.hpp" alt="" coords="1509,497,1689,539"/>
+<area shape="rect" id="node17" href="$group_8hpp.html" title="../group.hpp" alt="" coords="1869,102,1960,129"/>
+<area shape="rect" id="node34" href="$derecho__internal_8hpp.html" title="detail/derecho_internal.hpp" alt="" coords="746,505,923,531"/>
+<area shape="rect" id="node44" href="$logger_8hpp.html" title="derecho/utils/logger.hpp" alt="" coords="587,423,747,449"/>
+<area shape="rect" id="node47" href="$container__template__functions_8hpp.html" title="container_template\l_functions.hpp" alt="" coords="3029,497,3161,539"/>
+<area shape="rect" id="node50" href="$make__kind__map_8hpp.html" title="make_kind_map.hpp" alt="" coords="3041,102,3183,129"/>
+<area shape="rect" id="node3" href="$SerializationMacros_8hpp.html" title="SerializationMacros.hpp" alt="" coords="2147,594,2309,621"/>
+<area shape="rect" id="node5" href="$context__ptr_8hpp.html" title="context_ptr.hpp" alt="" coords="1960,594,2072,621"/>
+<area shape="rect" id="node30" href="$tcp_8hpp.html" title="derecho/tcp/tcp.hpp" alt="" coords="435,505,573,531"/>
+<area shape="rect" id="node33" href="$derecho__exception_8hpp.html" title="derecho_exception.hpp" alt="" coords="2333,594,2489,621"/>
+<area shape="rect" id="node38" href="$persistence__manager_8hpp.html" title="detail/persistence\l_manager.hpp" alt="" coords="1127,184,1251,225"/>
+<area shape="rect" id="node39" href="$replicated_8hpp.html" title="../replicated.hpp" alt="" coords="1132,273,1247,300"/>
+<area shape="rect" id="node40" href="$rpc__manager_8hpp.html" title="detail/rpc_manager.hpp" alt="" coords="1405,348,1563,375"/>
+<area shape="rect" id="node41" href="$view__manager_8hpp.html" title="view_manager.hpp" alt="" coords="1739,423,1869,449"/>
+<area shape="rect" id="node42" href="$subgroup__info_8hpp.html" title="../subgroup_info.hpp" alt="" coords="2339,505,2479,531"/>
+<area shape="rect" id="node43" href="$conf_8hpp.html" title="derecho/conf/conf.hpp" alt="" coords="1847,505,1998,531"/>
+<area shape="rect" id="node36" href="$derecho__type__definitions_8hpp.html" title="../derecho_type_definitions.hpp" alt="" coords="773,594,976,621"/>
+<area shape="rect" id="node37" href="$HLC_8hpp.html" title="derecho/persistent\l/HLC.hpp" alt="" coords="465,587,594,628"/>
+</map>

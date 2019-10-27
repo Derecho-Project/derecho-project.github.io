@@ -1,0 +1,17 @@
+<map id="derecho::PersistenceManager" name="derecho::PersistenceManager">
+<area shape="rect" id="node3" href="$classderecho_1_1ViewManager.html" title="derecho::ViewManager" alt="" coords="2697,685,2852,712"/>
+<area shape="rect" id="node5" href="$classderecho_1_1RestartLeaderState.html" title="derecho::RestartLeaderState" alt="" coords="1899,805,2088,832"/>
+<area shape="rect" id="node7" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="1188,1185,1275,1212"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="810,1192,890,1219"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="455,1185,581,1226"/>
+<area shape="rect" id="node11" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="1179,775,1284,801"/>
+<area shape="rect" id="node12" href="$structmutils_1_1ByteRepresentable.html" title="A non&#45;POD type which wishes to mark itself byte representable should extend this class. " alt="" coords="762,647,938,673"/>
+<area shape="rect" id="node22" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="436,561,600,588"/>
+<area shape="rect" id="node29" title="STL class. " alt="" coords="79,237,163,264"/>
+<area shape="rect" id="node32" href="$structderecho_1_1RestartState.html" title="derecho::RestartState" alt="" coords="1522,1009,1673,1036"/>
+<area shape="rect" id="node33" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="1521,667,1674,693"/>
+<area shape="rect" id="node37" title="STL class. " alt="" coords="2335,913,2457,940"/>
+<area shape="rect" id="node40" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="2316,964,2476,991"/>
+<area shape="rect" id="node49" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="2318,1245,2474,1286"/>
+<area shape="rect" id="node46" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="2311,214,2481,255"/>
+</map>
